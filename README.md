@@ -45,7 +45,6 @@ Raw Order Data → Hex-based Demand Grid → Time-Series Forecasting → Driver 
 **What this engine says:**  
 > "Move to KSRTC HQ, Shanthinagar — 73% surge probability in the next 15 minutes. Estimated ₹300-400 per trip."
 
-That's not just prediction. **That's income optimization.**
 
 ---
 
